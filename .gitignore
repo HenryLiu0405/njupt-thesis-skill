@@ -1,0 +1,9 @@
+node_modules/
+*.skill
+*.pdf
+*.docx
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.idea/
