@@ -10,7 +10,7 @@
 
 ## 它能帮你做什么 · What it can do
 
-- **按南邮格式写/改论文**:宋体黑体混排、1.5 倍行距、章节层级、页眉页码、图题表题,自动符合规范
+- **按南邮格式写/改论文**:宋体黑体混排、行距、章节层级、页眉页码、图题表题,自动符合规范
   *Write/edit your thesis to NJUPT formatting: mixed SimSun/SimHei fonts, 1.5× line spacing, heading levels, headers & page numbers, figure/table captions — all compliant by default.*
 - **公式 LaTeX → MathType 工作流**:生成的 Word 里公式以 LaTeX 源码呈现,在 MathType 里一键 `Toggle TeX` 转换,不再手敲
   *LaTeX → MathType formula workflow: formulas are emitted as LaTeX source inside the Word file, converted in one click via MathType's `Toggle TeX` — no manual retyping.*
